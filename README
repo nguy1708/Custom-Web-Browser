@@ -1,0 +1,13 @@
+/* Custome Web Browser
+* With the wrapper given, I was to create a custom
+* web browser using C. This helped teach the concept of 
+* threads, master processes, child processes,
+* and kill signals. There was also some socket
+* programing involved as I was to retrieve the 
+* URL. 
+*
+* To start, type "make" into the terminal when in this 
+* project's root. 
+* Next, run "./browser"
+* Once finished, "make clean" to clean up everything
+*/
